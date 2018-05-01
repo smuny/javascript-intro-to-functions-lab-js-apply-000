@@ -14,4 +14,6 @@ function sayHiToGrandma(string){
   string.shout();
 }
 id = ();
-if(id)
+if(id){
+  
+}
