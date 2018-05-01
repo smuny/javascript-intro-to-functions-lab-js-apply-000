@@ -13,4 +13,5 @@ function logWhisper(string){
 function sayHiToGrandma(string){
   string.shout();
 }
-id=()
+id = ();
+if id
