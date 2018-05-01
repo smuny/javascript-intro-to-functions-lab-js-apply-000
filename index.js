@@ -12,6 +12,7 @@ function logWhisper(string){
 }
 function sayHiToGrandma(string){
 } console.log(string.toLowerCase()) === whisper(string);
-  if (string.toLowerCase)( //string is equal to string.lowercase) {
+  if (string.toLowerCase){
+    ( //string is equal to string.lowercase) {
     //return 
 
