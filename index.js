@@ -11,7 +11,6 @@ function logWhisper(string){
   console.log(string.toLowerCase());
 }
 function sayHiToGrandma(string){
-  string.shout();
 }
 id = whisper(string);
 if(id == whisper(string)){
