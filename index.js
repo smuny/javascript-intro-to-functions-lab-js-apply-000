@@ -14,8 +14,8 @@ function sayHiToGrandma(string){
   string.shout();
 }
 id = whisper(string);
-if(id == hello){
-  console.log('TRUE');
+if(id == whisper(string)){
+  console.log('hello');
 } else {
-  console.log('')
+  console.log('I can\'t hear you!');
 }
