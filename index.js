@@ -15,5 +15,5 @@ function sayHiToGrandma(string){
 }
 id = ();
 if(id == hello){
-  
+  console.log('TRUE');
 }
