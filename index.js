@@ -13,7 +13,7 @@ function logWhisper(string){
 function sayHiToGrandma(string){
   string.shout();
 }
-id = ();
+id = whisper(string);
 if(id == hello){
   console.log('TRUE');
 } else {
