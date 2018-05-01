@@ -12,9 +12,4 @@ function logWhisper(string){
 }
 function sayHiToGrandma(string){
 }
-id = whisper(string);
-if(id == whisper(string)){
-  console.log('hello');
-} else {
-  console.log('I can\'t hear you!');
-}
+var 
